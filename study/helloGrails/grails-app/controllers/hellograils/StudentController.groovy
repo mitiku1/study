@@ -1,7 +1,7 @@
 package hellograils
 
 class StudentController {
-
+	def scaffold=true;
 
     def index = { 
     	redirect(action:home)
