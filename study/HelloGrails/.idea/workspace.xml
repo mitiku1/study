@@ -2,163 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83cb1982-38f4-4fc7-b140-6bc26855d6c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/ApplicationResources$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/ApplicationResources$_run_closure1_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/ApplicationResources.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BootStrap$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BootStrap$_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BootStrap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BuildConfig$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BuildConfig$_run_closure1_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BuildConfig$_run_closure1_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BuildConfig$_run_closure1_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BuildConfig$_run_closure1_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/Config$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/Config$_run_closure1_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/Config$_run_closure1_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/Config$_run_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/Config.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/hellograils/Customer$__clinit__closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/hellograils/Customer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/hellograils/CustomerController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure4_closure7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure5_closure8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure6_closure9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource$_run_closure3_closure6_closure9_closure10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/DataSource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/hellograils/ReceptionistController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/hellograils/Student$__clinit__closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/hellograils/Student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/UrlMappings$__clinit__closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/UrlMappings$__clinit__closure1_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/UrlMappings$__clinit__closure1_closure2_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/UrlMappings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/apple-touch-icon-retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/database_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/database_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/database_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/database_save.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/database_table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/exclamation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/grails_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/grails_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/house.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/information.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/leftnav_btm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/leftnav_midstretch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/leftnav_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/prodDb.h2.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/resources$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/resources.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/shadow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/sorted_asc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/skin/sorted_desc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/images/springsource.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/ApplicationResources.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/BootStrap.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/BuildConfig.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/Config.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/controllers/hellograils/CustomerController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/test/unit/hellograils/CustomerControllerTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/test/unit/hellograils/CustomerTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/DataSource.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/HelloGrails-grailsPlugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/HelloGrails.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/grails-app/domain/hellograils/Student.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/test/unit/hellograils/StudentTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/UrlMappings.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/js/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/WEB-INF/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/WEB-INF/tld/c.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/views/error.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/css/errors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/WEB-INF/tld/fmt.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/WEB-INF/tld/grails.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/helloGrails.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/views/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/views/customer/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/views/layouts/main.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_cs_CZ.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_da.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_de.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_es.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_fr.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_it.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_ja.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_nl.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_pl.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_pt_BR.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_pt_PT.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_ru.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_sv.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_th.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/i18n/messages_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/css/mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/.settings/org.codehaus.groovy.eclipse.preferences.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/prodDb.trace.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/conf/spring/resources.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/WEB-INF/sitemesh.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/web-app/WEB-INF/tld/spring.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGrails/target/stacktrace.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/grails-app/views/layouts/student.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../helloGrails2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/ApplicationResources.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/ApplicationResources.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/BootStrap.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/BootStrap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/BuildConfig.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/Config.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/Config.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/DataSource$_run_closure3_closure4_closure7.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/DataSource$_run_closure3_closure4_closure7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/DataSource.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/DataSource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/hellograils/StudentController.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/hellograils/StudentController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/UrlMappings.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/UrlMappings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/classes/resources.class" afterPath="$PROJECT_DIR$/../helloGrails/target/classes/resources.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/../helloGrails/grails-app/conf/DataSource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/grails-app/controllers/hellograils/StudentController.groovy" afterPath="$PROJECT_DIR$/../helloGrails/grails-app/controllers/hellograils/StudentController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloGrails/target/stacktrace.log" afterPath="$PROJECT_DIR$/../helloGrails/target/stacktrace.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy" afterPath="$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy" />
     </list>
     <ignored path="HelloGrails.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -195,21 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataSource.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataSource.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloGrails/grails-app/conf/DataSource.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16178736" vertical-offset="0" max-vertical-offset="735">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Customer.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Customer.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="240">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.14376996" vertical-offset="0" max-vertical-offset="626">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -233,11 +77,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy" />
         <option value="$PROJECT_DIR$/HelloGrails/grails-app/controllers/hellograils/ReceptionistController.groovy" />
         <option value="$PROJECT_DIR$/HelloGrails/grails-app/views/receptionist/index.gsp" />
         <option value="$PROJECT_DIR$/HelloGrails/grails-app/controllers/hellograils/CustomerController.groovy" />
         <option value="$PROJECT_DIR$/HelloGrails/grails-app/views/customer/index.gsp" />
+        <option value="$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy" />
       </list>
     </option>
   </component>
@@ -715,15 +559,15 @@
       <option name="number" value="Default" />
       <updated>1457505810584</updated>
       <workItem from="1457505816820" duration="4882000" />
-      <workItem from="1457516087043" duration="3953000" />
+      <workItem from="1457516087043" duration="4574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8835000" />
+    <option name="totallyTimeSpent" value="9456000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -840,17 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="240">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloGrails/.settings/org.codehaus.groovy.eclipse.preferences.prefs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
@@ -876,8 +709,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloGrails/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16178736" vertical-offset="0" max-vertical-offset="735">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloGrails/grails-app/domain/hellograils/Customer.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14376996" vertical-offset="0" max-vertical-offset="626">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding />
         </state>
       </provider>
